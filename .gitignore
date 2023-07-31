@@ -12,7 +12,7 @@
 /.next/
 /out/
 
-/public/matterport
+
 
 # production
 /build
@@ -35,3 +35,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# remove Matterport public file
+/public/matterport/
