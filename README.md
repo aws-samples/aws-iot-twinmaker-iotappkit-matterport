@@ -42,6 +42,7 @@ npm install --legacy-peer-deps
 ```bash
 npm run dev 
 ```
+The application is available at `localhost:3000`. 
 
 Once you sign in using the credentials of your cognito user, you should then see your Matterport space. 
 
