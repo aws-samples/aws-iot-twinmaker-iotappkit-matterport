@@ -36,5 +36,5 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# remove Matterport public file
+# Matterport public file
 /public/matterport/
